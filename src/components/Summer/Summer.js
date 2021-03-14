@@ -9,7 +9,7 @@ import SummerBg from "../../images/summerBg.webp";
 const Summer = () => {
     return (
         <section className="summer" css={styles}>
-            <Heading title="A BIG OFFER FOR THIS SUMMER" />
+            <Heading title="A BIG OFFER FOR THIS EASTER" />
             <Button />
         </section>
     )

@@ -12,12 +12,12 @@ const Features = () => {
     return (
         <section className="features" css={styles}>
             <Container>
-                <Heading title="OUR FEATURES" info="There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration." />
+                <Heading title="OUR FEATURES" info="We've got multiple programs and classes to help you meet your goals. Get ready to improve your life.." />
                 <div className="featureWrapper">
-                    <FeaturesCard featureImg={Features1} featureHeading="Weightlifting" featureInfo="There are many variations of passages of lorem Ipsum available." />
-                    <FeaturesCard featureImg={Features2} featureHeading="Specific Muscles" featureInfo="There are many variations of passages of lorem Ipsum available." />
-                    <FeaturesCard featureImg={Features3} featureHeading="Flex Your Muscles" featureInfo="There are many variations of passages of lorem Ipsum available." />
-                    <FeaturesCard featureImg={Features4} featureHeading="Cardio Exercises" featureInfo="There are many variations of passages of lorem Ipsum available." />
+                    <FeaturesCard featureImg={Features1} featureHeading="Weightlifting" featureInfo="." />
+                    <FeaturesCard featureImg={Features2} featureHeading="Specific Muscles" featureInfo="." />
+                    <FeaturesCard featureImg={Features3} featureHeading="Flex Your Muscles" featureInfo="." />
+                    <FeaturesCard featureImg={Features4} featureHeading="Cardio Exercises" featureInfo="." />
                 </div>
             </Container>
         </section>

@@ -8,11 +8,11 @@ const Pricing = () => {
     return (
         <section className="pricing" css={styles}>
             <Container>
-                <Heading title="OUR PRICING" info="There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration." />
+                <Heading title="OUR PRICING" info="the pricing is based on the level of workout you need." />
                 <div className="wrapper">
-                    <PricingCard cardTitle="BEGINNER" cardPricing="$45/m" />
-                    <PricingCard cardTitle="EXPERT" cardPricing="$45/m" />
-                    <PricingCard cardTitle="PRO" cardPricing="$45/m" />
+                    <PricingCard cardTitle="BEGINNER" cardPricing="ksh.4500/m" />
+                    <PricingCard cardTitle="EXPERT" cardPricing="ksh.3500/m" />
+                    <PricingCard cardTitle="PRO" cardPricing="ksh.4000/m" />
                 </div>
             </Container>
         </section>

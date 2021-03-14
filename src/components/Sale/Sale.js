@@ -12,9 +12,9 @@ const Sale = () => {
             <Container>
                 <div className="wrapper">
                     <h3>A BIG OFFER FOR<br></br>
-                    THIS SUMMER</h3>
+                    THIS Easter</h3>
                     <h2>50% Off</h2>
-                    <p>There are many variations of passages of lorem Ipsum available but the majority have suffered alteration.</p>
+                    <p>Training helps members transform their lifestyle physically and mentally while encouraging community growth and a no-ego attitude.</p>
                     <Button />
                 </div>
             </Container>

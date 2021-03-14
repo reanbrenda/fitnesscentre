@@ -9,12 +9,12 @@ const JoinUs = () => {
         <section className="joinUs" css={styles}>
             <div className="wrap">
                 <div className="img1">
-                    <JoinUsInfo title="FOR WOMEN" info="There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration." />
+                    <JoinUsInfo title="FOR WOMEN" info=" We believe that a great workout should be challenging, sweaty & smart. Each class provides a dynamic circuit of exercises that keep you motivated, engaged and focused. You’ll lengthen and tone your entire body with Pilates, torch calories through cardio drills, and become stronger and leaner with our strength training sets." />
                 </div>
             </div>
             <div className="wrap">
                 <div className="img2">
-                    <JoinUsInfo title="FOR GUYS" info="There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration." />
+                    <JoinUsInfo title="FOR GUYS" info=" The workout is specifically designed to provide a functional full-body workout while improving energy levels, metabolic rate, strength, and endurance.." />
                 </div>
             </div>
 

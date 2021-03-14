@@ -10,9 +10,9 @@ const Footer = () => {
             <Container>
                 <FooterCard cardHeading="Fitness centre">
                     <div className="firstCard">
-                        <p>5th flora, 700/D kings road, green lane New York-1782</p>
-                        <a href="">+10 367 826 2567</a>
-                        <a href="">contact@carpenter.com</a>
+                        <p>5th floor   cresennt House ruai Nairobi</p>
+                        <a href="">+254706933292</a>
+                        <a href="">fitnesscare@cresent.com</a>
                         <div className="social">
                             <i class="fab fa-facebook-f"></i>
                             <i class="fab fa-twitter"></i>
@@ -36,12 +36,12 @@ const Footer = () => {
                             <input type="text" placeholder="Enter your Email" />
                             <Button />
                         </div>
-                        <p>Esteem spirit temper too say adieus who direct esteem esteems luckily.</p>
+                        <p>Send us an email and we will reply as soon as possible.</p>
                     </div>
                 </FooterCard>
             </Container>
             <div className="copyright">
-                <p>Copyright ©2020 All rights reserved | This template is made with <i class="far fa-heart"></i> by Colorlib</p>
+                <p>Copyright ©2021 All rights reserved<i class="far fa-heart"></i> by Brenda Mukindia </p>
             </div>
         </footer>
     )
